@@ -1,0 +1,30 @@
+.heading{
+    font-size: 25px;
+    width: 90%;
+    margin: 0px;
+    box-shadow: 15px 30px 30px yellow;
+
+}
+
+.heading_div{
+  
+    font-size: 15px;
+    color: rgb(4, 59, 41);
+}
+
+.copyright_footer{
+
+    position: fixed;
+    color: bisque;
+    width: 100%;
+    background-color: blue;
+    line-height: 2;
+    text-align: center;
+    bottom: 0;
+}
+
+canvas{
+    border: 5px solid blue;
+    border-radius: 6px;
+    box-shadow: 7px 15px 15px rgb(248, 142, 13);
+}
